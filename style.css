@@ -9,6 +9,12 @@
 .sec1{
     background-color: #312D4F;
 }
+ul > li {
+    font-size: larger;
+    padding: 0px 20px;
+}
+
+
 
 .name{
     /* padding-left: 200em; */
