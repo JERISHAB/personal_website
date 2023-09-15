@@ -27,7 +27,11 @@ ul > li {
 
 .name{
     /* padding-left: 200em; */
-    color:#37E4D0 ;
+    color:aliceblue ;
+}
+
+.my-name{
+    color: #37E4D0;
 }
 .illustration{
     height: 10em;
@@ -81,4 +85,16 @@ footer{
 .nav-logo{
     display: flex;
     justify-content: center;
+}
+
+button{
+    background-color: #FF6224;
+    border: none;
+    border-radius: 8px;
+    color:aliceblue;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);  
+}
+
+button:hover {
+    box-shadow: 0 0 20px rgba(56, 49, 49, 0.4); /* Increase the box shadow on hover */
 }
