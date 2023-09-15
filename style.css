@@ -20,6 +20,11 @@ ul > li {
     font-size: larger;
     padding: 0px 20px;
 }
+.heading{
+    white-space: nowrap;
+}
+
+
 .name{
     /* padding-left: 200em; */
     color:#37E4D0 ;
